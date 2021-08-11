@@ -10,4 +10,3 @@ class User < ApplicationRecord
                     length: { minimum: 10, maixmum: 80 },
                     format: { with: VALID_EMAIL_ID }
 end
-end
