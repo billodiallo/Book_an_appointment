@@ -7,7 +7,7 @@
 #   Character.create(name: 'Luke', movie: movies.first)
 
 Facility.create!(name: "NAIROBI HOSPITAL",
-                image_url: 'https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_485,ar_485:323,c_fit/dpr_2/v1/cult-media/v2web/workouts/1_id/PRODUCT_BNR_2020-02-04T13:19:29.014Z.png',
+                image_url: 'https://res.cloudinary.com/sanankoro/image/upload/v1628863041/url1_jt7wsh.jpg',
                 brief_description: "TEST PCR ,AGE 18-55 ANS| 2 doses | immunity| Side effet | Second dose",
                 detailed_description: "At Nairobi Hospital you will help to do free Test PCR and share more information about Astrazena vaccine,his side effect, the second dose before you take the vaccine ",
                 free_trial: " 1 PCR TEST",
