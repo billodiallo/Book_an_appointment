@@ -10,6 +10,7 @@ gem 'rails', '~> 6.1.4'
 gem 'pg'
 gem 'bcrypt'
 gem 'jwt'
+gem 'rack-cors', '~> 1.1', '>= 1.1.1'
 # Use Puma as the app server
 gem 'puma', '~> 5.0'
 # Use SCSS for stylesheets
