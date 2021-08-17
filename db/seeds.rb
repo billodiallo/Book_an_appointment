@@ -1,11 +1,3 @@
-# This file should contain all the record creation needed to seed the database with its default values.
-# The data can then be loaded with the rails db:seed command (or created alongside the database with db:setup).
-#
-# Examples:
-#
-#   movies = Movie.create([{ name: 'Star Wars' }, { name: 'Lord of the Rings' }])
-#   Character.create(name: 'Luke', movie: movies.first)
-
 Facility.create!(name: "NAIROBI HOSPITAL",
                 image_url: 'https://res.cloudinary.com/sanankoro/image/upload/v1628863041/url1_jt7wsh.jpg',
                 brief_description: "TEST PCR ,AGE 18-55 ANS| 2 doses | immunity| Side effet | Second dose",
@@ -17,7 +9,7 @@ Facility.create!(name: "NAIROBI HOSPITAL",
 )
 
 Facility.create!(name: "Coptic HOSPITAL",
-                image_url: 'https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_600,c_fit/dpr_2/v1/cult-media/v2web/workouts/4_id/PRODUCT_BNR_2020-07-21T18:32:59.441Z.png',
+                image_url: 'https://res.cloudinary.com/sanankoro/image/upload/v1628863041/url3_xsm7cy.jpg',
                 brief_description: "pfizer vaccine | Astrazenica | johnson & johnson | Covax",
                 detailed_description: "At Coptic HOSPITAL you will help to do free Test PCR and share more information about the available vaccines,their side effects, the second dose before you take the vaccine",
                 free_trial: " 1 PCR TEST free",
@@ -26,8 +18,8 @@ Facility.create!(name: "Coptic HOSPITAL",
                 annual_package: "370$"
 )
 
-Facility.create!(name: "The Aga Khan University Hospital",
-                image_url: 'https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_600,c_fit/dpr_2/v1/cult-media/v2web/workouts/84_id/PRODUCT_BNR_2020-02-04T13:04:53.343Z.png',
+Facility.create!(name: "Karen Hospital",
+                image_url: 'https://res.cloudinary.com/sanankoro/image/upload/v1628863042/url4_synmrr.jpg',
                 brief_description: "pfizer vaccine | Astrazenica | johnson & johnson | Covax",
                 detailed_description: "At The Aga Khan University Hospital, you will help to do free Test PCR and share more information about the available vaccines,their side effects, the second dose before you take the vaccine.",
                 free_trial: "2 PCR TEST FREE",
@@ -37,7 +29,7 @@ Facility.create!(name: "The Aga Khan University Hospital",
 )
 
 Facility.create!(name: "MOMBASSA HOSPITAL",
-                image_url: 'https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_485,ar_485:323,c_fit/dpr_2/v1/cult-media/v2web/workouts/5_id/PRODUCT_BNR_2020-02-04T13:17:06.754Z.png',
+                image_url: 'https://res.cloudinary.com/sanankoro/image/upload/v1629222360/mombassa_xpheni.jpg',
                 brief_description: "pfizer vaccine | Astrazenica | johnson & johnson | Covax",
                 detailed_description: "At Mombassa, you will help to do free Test PCR and share more information about the available vaccines,their side effects, the second dose before you take the vaccine.",
                 free_trial: "2 PCR TEST FREE",
@@ -47,7 +39,7 @@ Facility.create!(name: "MOMBASSA HOSPITAL",
 )
 
 Facility.create!(name: "Gertride HOSPITAL",
-                image_url: 'https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_485,ar_485:323,c_fit/dpr_2/v1/cult-media/v2web/workouts/22_id/PRODUCT_BNR_2020-03-04T11:36:46.263Z.png',
+                image_url: 'https://res.cloudinary.com/sanankoro/image/upload/v1628863041/url5_rrwhki.jpg',
                 brief_description: "pfizer vaccine | Astrazenica | johnson & johnson | Covax",
                 detailed_description: "2 PCR TEST FREE",
                 free_trial: "2 PCR TEST FREE",
