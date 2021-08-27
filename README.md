@@ -13,10 +13,16 @@
 
 ## Sreenshot
 
+![test1](https://user-images.githubusercontent.com/11162987/131102263-bfeabd11-0818-4a16-a91d-0ed7e337772f.JPG)
+![test2](https://user-images.githubusercontent.com/11162987/131102271-21508b11-e512-49b3-a57b-f6a07b172219.JPG)
+![test3](https://user-images.githubusercontent.com/11162987/131102273-5763e6f6-412f-4e7b-b700-a33d0820aad3.JPG)
+![test4](https://user-images.githubusercontent.com/11162987/131102277-7017ec0c-db51-44f7-acd3-22a915af771d.JPG)
+
+
 
 ## Live Demo
 Deployment 
-[Lifestyle Article ](https://billo-appointment-app.herokuapp.com/)
+[Book_an_appointment API on Heroku ](https://billo-appointment-app.herokuapp.com/)
 
 
 
@@ -45,6 +51,7 @@ Setup database with:
 ```
    rails db:create
    rails db:migrate
+   rails db:seed
 ```
 
 
