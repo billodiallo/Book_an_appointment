@@ -13,7 +13,6 @@ RSpec.describe Facility, type: :model do
       should validate_length_of(:name).is_at_least(2)
         .with_short_message('is too short (minimum is 2 characters)')
     }
-    
   end
 
   describe 'validations for image_url' do

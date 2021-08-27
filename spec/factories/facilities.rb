@@ -1,4 +1,3 @@
-
 FactoryBot.define do
   factory :facility do
     name { Faker::Name.unique.first_name }
